@@ -1,3 +1,4 @@
 # myrepo
 This is my first git repository.
-\nAuthor - Jayesh Badgujar
+<br>
+Author - Jayesh Badgujar
